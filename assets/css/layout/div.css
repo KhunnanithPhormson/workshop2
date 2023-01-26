@@ -1,0 +1,13 @@
+.div{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.div-header{
+    position: relative;
+    /* justify-content: start; */
+    /* align-items: stretch; */
+    /* display: flex; */
+}
+

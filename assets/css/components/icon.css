@@ -1,0 +1,10 @@
+icon {
+  background-image: url('\arrow_right.png');
+  background-color: #EAEBEE;
+  position: absolute;
+  width: 119.14px;
+  height: 0px;
+  left: 136px;
+  top: 11.5px;
+  z-index: 3;
+}

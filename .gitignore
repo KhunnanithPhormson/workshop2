@@ -1,0 +1,10 @@
+/node_modules
+/.nuxt
+/.nitro
+/.cache
+/.output
+/dist
+/node-jiti
+
+.env
+*.log*
